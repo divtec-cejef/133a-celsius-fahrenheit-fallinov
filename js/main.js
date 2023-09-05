@@ -11,3 +11,5 @@ let a = 'Bonjour';
 
 console.log(a);
 
+'test'
+
